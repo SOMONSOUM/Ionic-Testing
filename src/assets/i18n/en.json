@@ -1,0 +1,40 @@
+{
+    "BACK_BUTTON_TEXT": "Back",
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "LOGIN": "Log in",
+    "SIGNUP": "Sign up",
+    "PHONE_NUMBER": "Phone Number",
+    "INTRO_SKIP_BUTTON": "Skip",
+    "INTRO_GOT_IT_BUTTON": "Got it",
+
+
+    "INTRO_SLIDE1_TITLE": "FOLLOW ROUTES",
+    "INTRO_SLIDE1_DESCRIPTION": "Easy tracking routes so you can see the most busy routes that passenger looking. Use it to tailor your offer and the demands.",
+
+
+    "INTRO_SLIDE2_TITLE": "MONITORING",
+    "INTRO_SLIDE2_DESCRIPTION": "Checking your passengers behavior; see what they are doing. And decide your offers; all in one app and just a few taps of fingers.",
+
+
+    "INTRO_SLIDE3_TITLE": "EASY PAYMENT",
+    "INTRO_SLIDE3_DESCRIPTION": "Pay by QR code, fast, easy and secure. No more paper work and less headache.",
+
+
+    "LOGIN_TITLE": "Sign in",
+    "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+    "LOGIN_BUTTON": "Sign in",
+    "SIGNUP_TITLE": "Sign up",
+    "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+    "SIGNUP_BUTTON": "Sign up",
+
+
+    "CANCEL_BUTTON": "Cancel",
+    "DONE_BUTTON": "Done",
+    "DELETE_BUTTON": "Delete",
+
+    "SEARCH_TITLE": "Search",
+    "SEARCH_PLACEHOLDER": "Search, e.g. ..."
+}
